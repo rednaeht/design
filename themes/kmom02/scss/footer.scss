@@ -1,0 +1,15 @@
+/* Footer */
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid $border-footer-color;
+}
+
+.footer a {
+    color: $font-color;
+}
+
+.footer .social {
+    font-size: 2rem;
+}
